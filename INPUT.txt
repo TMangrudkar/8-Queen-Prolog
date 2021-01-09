@@ -1,0 +1,3 @@
+QUEEN--INPUT
+ 
+queens(8,Queens)
